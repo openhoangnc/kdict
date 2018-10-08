@@ -10,5 +10,8 @@ Link rút gọn đến trang download: [bit.do/kdict](http://bit.do/kdict)
 
 Nguồn từ điển
 ------
-http://www.mediafire.com/?wkai7p5hs9e2m#485y5mpjuvfgp
+http://www.mediafire.com/?wkai7p5hs9e2m
+
+http://www.studyjapanese.net/2011/04/tu-ien-babylon-voi-glossaries-nhat-viet.html
+
 Sẽ dùng để tạo một số file từ điển mới
