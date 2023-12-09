@@ -1,5 +1,6 @@
 Từ điển KDict cho Kindle
 ------------------
+![GitHub all releases](https://img.shields.io/github/downloads/openhoangnc/kdict/total?style=for-the-badge)
 
 Xin chia sẻ từ điển Anh Việt và Nhật Việt cho máy đọc sách Kindle mà tôi dã làm từ 2018.
 Lúc đó tôi đã thử nhiều từ điển Anh Việt nhưng vẫn thiếu nhiều từ lạ và không tra được các từ có đuôi s, es, ed, ing,... 
